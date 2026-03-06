@@ -1,7 +1,7 @@
 [project]
-name = "simulation-biologie-git"
+name = "simulation-biologie-L3"
 version = "0.1.0"
-description = "Add your description here"
+description = "Simulation en biologie L3"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
